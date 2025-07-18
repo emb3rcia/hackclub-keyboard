@@ -28,3 +28,9 @@ I searched for local sites for cheaper (and primarily faster) deliveries. Also i
 anyways, its 4:18 PM, i am going to start making PCB
 
 5:58 PM ended designing for today
+
+
+# July 18: Journal, PCB and possibly a case!
+7:05 PM, made hackatime account and connected it to VSC few seconds ago! Right now i am going to add images for what i had done yesterday as i forgot to do that then. After that i will continue making PCB!
+![Oh no! The image didn't load :<. It was an image of schematic at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/schematic-july18.png)
+On the right you can see keyboard switch sockets, it is wired like mess cause i wanted to make it in the size and shape of actual keyboard for reference! Although i know i will need to make it again later in pcb editor :<
