@@ -46,3 +46,5 @@ I also resigned from LED backlighting, i figured it is too much work for me as i
 ![Oh no! The image didn't load :<. It was a screenshot from PCB Editor in KiCad at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/pcb-july19.png)
 And this is how it looks in KiCad 3D model viewer:
 ![Oh no! The image didn't load :<. It was a screenshot from PCB 3D Model Viewer in KiCad at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/pcb-3d-july19.png)
+8:36 PM - 9:41 PM took a break for food, right now i need to make case
+10:12 PM ending designing for today, hoping tommorow will be last day of designing! Make body of the case (well, kinda), tommorow need to make plate etc
