@@ -39,3 +39,10 @@ Resigned from screen and expander whatsoever, after a bit of thinking i came to 
 I also resigned from LED backlighting, i figured it is too much work for me as it is my second hardware project ever, and first keyboard (excluding hackpad), especially since it has hot-swap.
 10:41 PM ended designing for today, almost 4h straight, at the end: i resigned from screen, expander and backlighting. Connected everything in schematic. Laid out everything on PCB. Left for me for making phisical part of the project is wire everything together using paths and design 3d case for it. And of course connect it all when it arrives.
 ![Oh no! The image didn't load :<. It was a screenshot from PCB Editor in KiCad at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/pcb-july18.png)
+
+# July 19: The day of making traces
+7:06 PM starting working on PCB, need to make traces for everything, but first i will label each key socket for convienency
+8:15 PM finished routing traces! This is how it looks now:
+![Oh no! The image didn't load :<. It was a screenshot from PCB Editor in KiCad at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/pcb-july19.png)
+And this is how it looks in KiCad 3D model viewer:
+![Oh no! The image didn't load :<. It was a screenshot from PCB 3D Model Viewer in KiCad at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/pcb-3d-july19.png)
