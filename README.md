@@ -24,7 +24,9 @@ PCB 3D Viewer KiCad:
 ![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/pcb-3d-july19.png)
 
 # BOM:
+
 | Item | Price PLN | Price USD | Link |
+| --- | --- | --- | --- |
 | Keycaps | 63.19 | 17.3 | https://www.aliexpress.com/item/1005008465121722.html |
 | Stabilizers | 35.89 | 9.83 | https://www.aliexpress.com/item/4001143514438.html |
 | M2x4mm screws | 4.39 | 1.20 | https://www.aliexpress.com/item/1005008799074471.html |
@@ -34,5 +36,5 @@ PCB 3D Viewer KiCad:
 | Gateron Hot-Swap Sockets (90pcs) | 25.76 | 7.05 | https://www.aliexpress.com/item/1005002637150446.html |
 | Gateron Switches (90pcs) | 80.39 | 22.01 | https://www.aliexpress.com/item/1005006376024657.html |
 | Raspberry Pi Pico | 13.31 | 3.64 | https://www.aliexpress.com/item/1005006087823796.html |
-| Total | PLN | USD |  |
-|  | 386.62 | 105.86 |  |
+| Total | PLN | USD | - |
+| - | 386.62 | 105.86 | - |
