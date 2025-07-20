@@ -53,3 +53,12 @@ And this is how it looks in KiCad 3D model viewer:
 ![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/3d-july20-4.png)
 
 right now i am adding all the files to the repo and making the ones that i didnt do before! also i slightly changed journal cause it was a mess to view in gallery, i will make it more preety at the end! if you want to see earlier versions of it you can see it in github repo change history!
+
+3d model with pcb and rotation encoder:
+
+![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/3d-full-july20-1.png)
+![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/3d-full-july20-2.png)
+![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/3d-full-july20-3.png)
+![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/3d-full-july20-4.png)
+
+Right now i will add the missing infos to journal (time per sessions etc) and expand it a bit cause i was writing it loosely, just so i can remember what i wanted to say to later (now) expand it!
