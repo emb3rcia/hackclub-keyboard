@@ -48,3 +48,12 @@ And this is how it looks in KiCad 3D model viewer:
 ![Oh no! The image didn't load :<. It was a screenshot from PCB 3D Model Viewer in KiCad at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/pcb-3d-july19.png)
 8:36 PM - 9:41 PM took a break for food, right now i need to make case
 10:12 PM ending designing for today, hoping tommorow will be last day of designing! Make body of the case (well, kinda), tommorow need to make plate etc
+
+# July 20: The birth of the case
+3:53 PM i am starting 3d modeling for today, hoping it wouldn't be as big of a chore as i suppose
+5:24 PM ended designing 3d case! It wasnt as frustrating as i thought.
+5:53 PM made screw holes i forgot to do! i am gonna add images to the journal of project rn!
+![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/3d-july20-1.png)
+![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/3d-july20-2.png)
+![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/3d-july20-3.png)
+![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/3d-july20-4.png)
