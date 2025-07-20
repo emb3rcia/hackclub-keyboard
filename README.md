@@ -15,7 +15,7 @@ Fusion 360 screenshot of full model (except switches as it is too much of hassle
 
 # PCB Pictures:
 Schematics:
-![Oh no! The image didn't load :<. It was a screenshot from KiCad of keyboard's PCB schematic. Please send an message to me on slack about it, i will fix is ASAP!](assets/schematic-july18.png)
+![Oh no! The image didn't load :<. It was a screenshot from KiCad of keyboard's PCB schematic. Please send an message to me on slack about it, i will fix is ASAP!](assets/readme-schem-ss.png)
 
 PCB:
 ![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/pcb-july19.png)

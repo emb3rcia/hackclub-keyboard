@@ -200,7 +200,7 @@
 	(net 118 "unconnected-(U1-GPIO28_ADC2-Pad34)")
 	(net 119 "unconnected-(U1-GND-Pad38)")
 	(net 120 "unconnected-(U1-SWDIO-Pad43)")
-	(net 121 "unconnected-(U1-GPIO19-Pad25)")
+	(net 121 "unconnected-(U1-GND-Pad23)")
 	(net 122 "unconnected-(U1-GND-Pad42)")
 	(net 123 "unconnected-(U1-AGND-Pad33)")
 	(net 124 "unconnected-(U1-VBUS-Pad40)")
@@ -2656,7 +2656,7 @@
 		(uuid "021a6e4c-c0ea-440c-9987-ade0645a9ebc")
 		(at 359.56875 90.4875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "PGDN"
+		(property "Reference" "MX50"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "57981156-2ec5-4ec9-b4f2-fa0633eb79c1")
@@ -4125,7 +4125,7 @@
 		(uuid "02ff538f-3949-4f49-a10d-3707eba16437")
 		(at 207.16875 128.5875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "<"
+		(property "Reference" "MX72"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "a99f35f7-867f-467e-809d-9d752b7e6bae")
@@ -5999,7 +5999,7 @@
 		(uuid "04f08f56-6101-47ff-938f-55409f2710c0")
 		(at 183.35625 71.4375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "8"
+		(property "Reference" "MX25"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "e583854c-06b9-448c-945e-6f02c715e850")
@@ -7873,7 +7873,7 @@
 		(uuid "05ccd06c-ecee-477a-970c-742928e97b49")
 		(at 173.83125 42.8625 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "F6"
+		(property "Reference" "MX7"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "17ea7448-4aac-4619-98d4-f6d8ee7c9ca5")
@@ -9342,7 +9342,7 @@
 		(uuid "0f0c6710-e270-44d8-a5a1-b27d8d2db5ff")
 		(at 292.89375 90.4875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "|"
+		(property "Reference" "MX47"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "758e566e-434b-47bb-87da-f940a07f6960")
@@ -11621,7 +11621,7 @@
 		(uuid "15d01dab-8a2a-40eb-a18a-1c9b366ce5d5")
 		(at 340.51875 90.4875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "END"
+		(property "Reference" "MX49"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "2169b672-57f7-4ccf-8e57-3d14bb77f5cb")
@@ -13090,7 +13090,7 @@
 		(uuid "16251b77-26a9-458b-9295-ec1952e6178a")
 		(at 164.30625 71.4375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "7"
+		(property "Reference" "MX24"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "3299d846-43ee-424a-be2b-23948ac9ac68")
@@ -14559,7 +14559,7 @@
 		(uuid "1655766c-70c0-4bd1-9bd4-169a58e39787")
 		(at 202.40625 71.4375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "9"
+		(property "Reference" "MX26"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "c91d71e1-ef78-46f6-8d1a-973528438c90")
@@ -15623,7 +15623,7 @@
 		(uuid "18d0a9d3-0210-4435-b7ca-879a6ad74d24")
 		(at 340.51875 128.5875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "UP"
+		(property "Reference" "MX76"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "7609e300-4045-4376-983f-6dc939a80a0c")
@@ -17092,7 +17092,7 @@
 		(uuid "1c1a7c83-9b51-44cf-8ded-4557f49fc6ae")
 		(at 278.60625 42.8625 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "F11"
+		(property "Reference" "MX12"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "8afa46c6-24ed-4581-ad49-59b47d60ee30")
@@ -19776,7 +19776,7 @@
 		(uuid "1f54ecf1-5d38-4eec-a7a3-519d5fab2404")
 		(at 216.69375 109.5375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "L"
+		(property "Reference" "MX60"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "31a1d700-a973-4f83-b4e6-d5a4eae6eb8e")
@@ -23270,7 +23270,7 @@
 		(uuid "2d8af6b7-53f9-4e85-9362-1eb5d268e4c4")
 		(at 140.49375 109.5375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "G"
+		(property "Reference" "MX56"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "f21def13-144a-4942-9f2e-353a06e99ccc")
@@ -24334,7 +24334,7 @@
 		(uuid "2e8efbe9-7e0d-4c89-b90c-91f528f3b6bf")
 		(at 192.88125 90.4875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "I"
+		(property "Reference" "MX42"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "b004349f-4d76-4587-96a3-e85e8af06d65")
@@ -25398,7 +25398,7 @@
 		(uuid "316d4ee7-ebf9-46f2-89a2-953542e3594f")
 		(at 321.46875 90.4875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "DEL"
+		(property "Reference" "MX48"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "cf238ee4-96af-4756-b9b0-8a25d3d4dc5a")
@@ -26462,7 +26462,7 @@
 		(uuid "3873441c-2a3e-429c-a0a4-783669a2f190")
 		(at 297.65625 42.8625 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "F12"
+		(property "Reference" "MX13"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "c9ed2a65-6612-43ea-8bca-7799114cec53")
@@ -27526,7 +27526,7 @@
 		(uuid "39dff1da-f40c-42e8-b1d1-89d7dfa58841")
 		(at 245.26875 128.5875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "?"
+		(property "Reference" "MX74"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "7cbea383-e2d8-48c8-a911-e566eb265265")
@@ -29400,7 +29400,7 @@
 		(uuid "3e12f7b1-4846-4b17-a014-4b2fb085fddd")
 		(at 73.81875 128.5875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "Z"
+		(property "Reference" "MX65"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "acd21b4a-a630-471f-92b9-492771c6e5a0")
@@ -30869,7 +30869,7 @@
 		(uuid "40cb2ead-0bb9-4d98-85a7-9dd5076b8b04")
 		(at 211.93125 42.8625 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "F8"
+		(property "Reference" "MX9"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "1deb820b-462a-4e3e-945c-2da6e59aa5fb")
@@ -32338,7 +32338,7 @@
 		(uuid "4356f94f-4634-4b55-86c6-17cff3b6c138")
 		(at 188.11875 128.5875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "M"
+		(property "Reference" "MX71"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "a5df0cf6-d1f3-43ca-9bea-3834d9364828")
@@ -34617,7 +34617,7 @@
 		(uuid "49c3fcc1-24cb-4c31-85e5-28bf98618997")
 		(at 80.9625 147.6375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "ALT"
+		(property "Reference" "MX80"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "cc639c6c-ba5d-40fb-859d-f58501fb4ab2")
@@ -35681,7 +35681,7 @@
 		(uuid "4af8b444-4262-471b-bdee-c561eb19546c")
 		(at 92.86875 128.5875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "X"
+		(property "Reference" "MX66"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "5298bc71-162d-4938-92f6-9251aba7e17e")
@@ -37555,7 +37555,7 @@
 		(uuid "4f1c3c0e-9491-4df3-afe4-f531e92dbeeb")
 		(at 111.91875 128.5875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "C"
+		(property "Reference" "MX67"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "fad8a8f8-0102-44d4-8f10-96a66547b038")
@@ -39024,7 +39024,7 @@
 		(uuid "53470be1-b36d-4e5c-8c54-5db7af117819")
 		(at 340.51875 71.4375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "HOME"
+		(property "Reference" "MX32"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "311b8630-2f5e-4383-9ea0-5886ad5c5282")
@@ -40493,7 +40493,7 @@
 		(uuid "56bb920d-8686-4e83-9d99-6e1e03d6d640")
 		(at 154.78125 90.4875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "Y"
+		(property "Reference" "MX40"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "8ddc871a-374c-4871-a87e-e5e84347d429")
@@ -41962,7 +41962,7 @@
 		(uuid "5738c9d8-e751-49a1-8f4a-72fe004cf864")
 		(at 359.56875 42.8625 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "PAUSE"
+		(property "Reference" "MX16"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "638284ae-7dc5-4511-b712-3c9240960095")
@@ -44646,7 +44646,7 @@
 		(uuid "6079ef40-0186-495a-bcb2-1caaefcf031c")
 		(at 88.10625 42.8625 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "F2"
+		(property "Reference" "MX3"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "74900249-4f25-4663-8bd4-7a0104fa0f25")
@@ -46115,7 +46115,7 @@
 		(uuid "6670fba3-a3a6-49b3-9108-cb45acd80f7e")
 		(at 254.79375 109.5375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "\""
+		(property "Reference" "MX62"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "bd848c5c-8d28-4f13-8830-2502cbad2121")
@@ -47179,7 +47179,7 @@
 		(uuid "67a939c7-85db-44d6-9717-550bf6b5164a")
 		(at 321.46875 147.6375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "LEFT"
+		(property "Reference" "MX88"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "e8a9233c-c940-43b9-98c4-fe58f4895b36")
@@ -48243,7 +48243,7 @@
 		(uuid "6c26daee-be71-4414-aabb-593c81477389")
 		(at 235.74375 109.5375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" ":"
+		(property "Reference" "MX61"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "62669e86-e139-4e1e-9612-7372ccf76ae7")
@@ -49712,7 +49712,7 @@
 		(uuid "6d72998c-c231-4375-8c07-8039f44df9ef")
 		(at 30.95625 71.4375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "`"
+		(property "Reference" "MX17"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "7b0324fc-8dae-48bc-88cf-e972212b4305")
@@ -51181,7 +51181,7 @@
 		(uuid "6f8a84fe-0eae-4c4c-98e1-b4acaf0806ad")
 		(at 69.05625 71.4375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "2"
+		(property "Reference" "MX19"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "405651bc-a2e5-43e4-9443-48ecb4c66898")
@@ -53055,7 +53055,7 @@
 		(uuid "72ae274e-0076-476b-b40f-2def7f9f0b83")
 		(at 223.8375 147.6375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "ALT"
+		(property "Reference" "MX82"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "fb76bda3-2a75-43b2-a8b0-fa7786e9228e")
@@ -54929,7 +54929,7 @@
 		(uuid "75722487-24f7-491e-9f91-7660293f8c43")
 		(at 35.71875 90.4875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "TAB"
+		(property "Reference" "MX34"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "395f980a-62ff-4bff-8b46-a78d85fe794e")
@@ -56398,7 +56398,7 @@
 		(uuid "7759c62b-aec5-49fe-983d-fe0e0f2a9e34")
 		(at 150.01875 128.5875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "B"
+		(property "Reference" "MX69"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "351d651f-9eb4-4185-9f6a-8552518f6c8b")
@@ -57462,7 +57462,7 @@
 		(uuid "794630bf-adb9-4368-8595-1e43a2b72725")
 		(at 359.56875 147.6375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "RIGHT"
+		(property "Reference" "MX86"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "dc0e81b6-cc38-4a61-8524-0660a3fe9ecb")
@@ -60551,7 +60551,7 @@
 		(uuid "87d3863c-9317-4239-b3ec-075b30be4667")
 		(at 57.15 147.6375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "WIN"
+		(property "Reference" "MX79"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "fccd8fc4-3d3f-4103-b153-6d34747014ee")
@@ -62830,7 +62830,7 @@
 		(uuid "9215b154-55e9-4a40-aef0-26c3969f425e")
 		(at 211.93125 90.4875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "O"
+		(property "Reference" "MX43"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "f217c309-1843-44dc-b26d-12f5d99c298c")
@@ -63894,7 +63894,7 @@
 		(uuid "92d7cf7a-31b0-4a4b-b785-db5859bb6e6e")
 		(at 33.3375 147.6375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "L_CTRL"
+		(property "Reference" "MX78"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "a32a5c95-d876-4def-a5a9-1238a34eb2ae")
@@ -64958,7 +64958,7 @@
 		(uuid "95744198-fff0-422b-a7ad-55a16fb91fa9")
 		(at 240.50625 71.4375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "-"
+		(property "Reference" "MX28"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "7fefa4aa-194b-4e25-86e7-a8a34c6bc19d")
@@ -66427,7 +66427,7 @@
 		(uuid "96a51136-0aa5-461c-b823-c7866b7522df")
 		(at 197.64375 109.5375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "K"
+		(property "Reference" "MX59"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "c8f93831-cb85-4cda-baf4-c92eb204f01a")
@@ -67491,7 +67491,7 @@
 		(uuid "98c221d7-8c0f-4f7d-8780-630cf4472ba5")
 		(at 107.15625 42.8625 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "F3"
+		(property "Reference" "MX4"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "a37561e6-68be-441a-b6eb-5bb40960f703")
@@ -68960,7 +68960,7 @@
 		(uuid "9b1c3e26-a34d-4705-baa3-77c99a8d16b7")
 		(at 121.44375 109.5375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "F"
+		(property "Reference" "MX55"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "4f9829b3-4c5b-4fd6-bffb-10fc4763224b")
@@ -70024,7 +70024,7 @@
 		(uuid "9d758d31-45e7-4df9-ac26-8986042a59db")
 		(at 295.275 147.6375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "R_CTRL"
+		(property "Reference" "MX85"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "577355d9-64be-43c0-a440-ebf62a61734b")
@@ -73435,7 +73435,7 @@
 				"In29.Cu" "In30.Cu"
 			)
 			(remove_unused_layers no)
-			(net 14 "Row 2")
+			(net 121 "unconnected-(U1-GND-Pad23)")
 			(pinfunction "GND")
 			(pintype "power_in")
 			(uuid "ebb7114c-61d1-43a2-bef8-54e707244e77")
@@ -73447,7 +73447,7 @@
 				(offset 0.9 0)
 			)
 			(layers "B.Cu" "B.Mask")
-			(net 14 "Row 2")
+			(net 121 "unconnected-(U1-GND-Pad23)")
 			(pinfunction "GND")
 			(pintype "power_in")
 			(uuid "3e1e6dd9-ae7f-42a9-8b4a-2cbe49855896")
@@ -73463,7 +73463,7 @@
 				"In29.Cu" "In30.Cu"
 			)
 			(remove_unused_layers no)
-			(net 1 "Row 3")
+			(net 14 "Row 2")
 			(pinfunction "GPIO18")
 			(pintype "bidirectional")
 			(uuid "9597e22f-ea0f-45fc-820d-45f37e6a445b")
@@ -73475,7 +73475,7 @@
 				(offset 0.9 0)
 			)
 			(layers "B.Cu" "B.Mask")
-			(net 1 "Row 3")
+			(net 14 "Row 2")
 			(pinfunction "GPIO18")
 			(pintype "bidirectional")
 			(uuid "35e8eb48-0830-4e3f-92a4-b28ac7f5636e")
@@ -73491,7 +73491,7 @@
 				"In29.Cu" "In30.Cu"
 			)
 			(remove_unused_layers no)
-			(net 121 "unconnected-(U1-GPIO19-Pad25)")
+			(net 1 "Row 3")
 			(pinfunction "GPIO19")
 			(pintype "bidirectional")
 			(uuid "a115bd6f-19e7-46e3-9de1-c1df26651d9d")
@@ -73503,7 +73503,7 @@
 				(offset 0.9 0)
 			)
 			(layers "B.Cu" "B.Mask")
-			(net 121 "unconnected-(U1-GPIO19-Pad25)")
+			(net 1 "Row 3")
 			(pinfunction "GPIO19")
 			(pintype "bidirectional")
 			(uuid "31476e69-d0dd-4a03-9f1e-6de345ae948f")
@@ -74029,7 +74029,7 @@
 		(uuid "a5430320-2f60-4b1e-9dfb-1b234a9c28d4")
 		(at 178.59375 109.5375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "J"
+		(property "Reference" "MX58"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "aed1ab83-dc52-4e4d-a139-10828f68f7fc")
@@ -75093,7 +75093,7 @@
 		(uuid "a65cc7f4-ef84-4eee-b2d2-134d6223863f")
 		(at 38.1 109.5375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "CAPS"
+		(property "Reference" "MX51"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "b831622b-29bc-4597-9139-a67d2c8309b1")
@@ -76157,7 +76157,7 @@
 		(uuid "a6c828cb-aafa-4ca6-9c52-09c160efc3da")
 		(at 226.21875 128.5875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" ">"
+		(property "Reference" "MX73"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "e22f4337-cd31-406f-878a-b996f74c4cf4")
@@ -77626,7 +77626,7 @@
 		(uuid "a8e4367f-a560-4122-8968-a61fd99cfdd9")
 		(at 169.06875 128.5875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "N"
+		(property "Reference" "MX70"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "19353cb7-5545-41a7-99cf-acb7661ae594")
@@ -79500,7 +79500,7 @@
 		(uuid "ab738e8f-2b80-4801-aa3e-5150dd030feb")
 		(at 145.25625 71.4375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "6"
+		(property "Reference" "MX23"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "59c6f5e6-5078-452c-a03e-0d83f531c91a")
@@ -80564,7 +80564,7 @@
 		(uuid "ace46297-bf79-4a1f-9a39-f32ed43d6f1f")
 		(at 321.46875 71.4375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "INSERT"
+		(property "Reference" "MX31"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "9c6ab75a-fe67-46dd-bceb-c0d7f4d11b77")
@@ -82033,7 +82033,7 @@
 		(uuid "b15638a3-17ce-411c-b549-59da4debc497")
 		(at 259.55625 42.8625 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "F10"
+		(property "Reference" "MX11"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "6be2d800-ee15-4911-93b0-d9999f64b95c")
@@ -83097,7 +83097,7 @@
 		(uuid "b18a9625-e86e-4251-9fca-e352e9c8a010")
 		(at 321.46875 42.8625 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "PRTSC"
+		(property "Reference" "MX14"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "ccbc72f8-035d-4eae-865c-70d24e9a0463")
@@ -84161,7 +84161,7 @@
 		(uuid "b1cee95d-856b-45b6-947c-70b735545245")
 		(at 259.55625 71.4375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "+"
+		(property "Reference" "MX29"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "9d9cd9e6-0ef2-4940-ad44-0fb875a2807a")
@@ -85225,7 +85225,7 @@
 		(uuid "b37604ba-afc5-45ea-91e7-6e4606a91545")
 		(at 69.05625 42.8625 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "F1"
+		(property "Reference" "MX2"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "c8ab2f6e-ffda-481b-92b8-cfa2a3701f2b")
@@ -86289,7 +86289,7 @@
 		(uuid "b4657476-d954-4636-aa8f-7effe27e4926")
 		(at 271.4625 147.6375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "MENU"
+		(property "Reference" "MX84"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "f08e7295-e8c8-45ed-a174-7575327d50b3")
@@ -87353,7 +87353,7 @@
 		(uuid "b52d7875-0494-4ce0-aeea-7d438d012f87")
 		(at 340.51875 147.6375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "DOWN"
+		(property "Reference" "MX87"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "50463973-5096-49d3-8dd6-4429f7dd0fe6")
@@ -89227,7 +89227,7 @@
 		(uuid "b7ff7b69-82e6-46f1-ab70-84c082e90112")
 		(at 230.98125 90.4875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "P"
+		(property "Reference" "MX44"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "0fe12f56-46d1-4518-a884-f6bd21c3d146")
@@ -90696,7 +90696,7 @@
 		(uuid "bccc089b-1f69-448e-8eda-abf1cb1a81b9")
 		(at 221.45625 71.4375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "0"
+		(property "Reference" "MX27"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "5b8856a6-e8be-49e7-bc4d-440110e12bb0")
@@ -91760,7 +91760,7 @@
 		(uuid "bda99123-0f87-4d44-a361-fefa78950632")
 		(at 30.95625 42.8625 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "ESC"
+		(property "Reference" "MX1"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "cf14930b-b505-4236-804c-0445f52b843a")
@@ -93634,7 +93634,7 @@
 		(uuid "bf3e4c97-aeb6-4037-b65d-ca54150c03bb")
 		(at 173.83125 90.4875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "U"
+		(property "Reference" "MX41"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "241537a8-b360-4b39-8753-fbc0dd28166b")
@@ -95103,7 +95103,7 @@
 		(uuid "c4a4a2b2-8028-4d87-ad62-d35b37bb006e")
 		(at 83.34375 109.5375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "S"
+		(property "Reference" "MX53"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "58a5d571-099e-4614-ad01-030952d271f9")
@@ -96167,7 +96167,7 @@
 		(uuid "c5362d06-a245-4c0d-9e28-2307cfceca21")
 		(at 42.8625 128.5875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "L_SHFT"
+		(property "Reference" "MX64"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "f4a2009a-d7e3-490b-947e-7d4d227ccdff")
@@ -97231,7 +97231,7 @@
 		(uuid "c631ed25-4104-4d36-9ef6-31e3690b13a3")
 		(at 285.75 109.5375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "ENTER"
+		(property "Reference" "MX63"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "03fcd5f0-1771-48ac-a403-833217acc998")
@@ -98295,7 +98295,7 @@
 		(uuid "c6a098b4-e74a-47ab-84c1-82a35d50f075")
 		(at 135.73125 90.4875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "T"
+		(property "Reference" "MX39"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "b613c2d6-4ed5-4e29-91e2-0a381a67f123")
@@ -99359,7 +99359,7 @@
 		(uuid "c99fdc06-c249-4adc-aff7-9cee0d67ba66")
 		(at 78.58125 90.4875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "W"
+		(property "Reference" "MX36"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "c8d98924-6c5c-496c-9370-c03d28afa930")
@@ -100423,7 +100423,7 @@
 		(uuid "c9f880eb-f10d-49b5-99e1-e8ab6ba92945")
 		(at 116.68125 90.4875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "R"
+		(property "Reference" "MX38"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "1009f7e6-5048-40af-b42f-5aaa3f021193")
@@ -102297,7 +102297,7 @@
 		(uuid "cb468c09-1f99-42bf-8daa-acc941d448dc")
 		(at 269.08125 90.4875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "}"
+		(property "Reference" "MX46"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "228cfc38-0f63-45df-95fa-b2157369d515")
@@ -103361,7 +103361,7 @@
 		(uuid "cbc90baa-8e82-4302-a2d7-94832993e34f")
 		(at 50.00625 71.4375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "1"
+		(property "Reference" "MX18"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "b19ae33e-3122-4fb8-aa50-8f66fb895b57")
@@ -104425,7 +104425,7 @@
 		(uuid "cdad49ca-c56f-4f36-942e-39fd3494cd8f")
 		(at 130.96875 128.5875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "V"
+		(property "Reference" "MX68"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "f1700622-23f9-4e8e-b338-06becfeadc41")
@@ -106299,7 +106299,7 @@
 		(uuid "d2f38174-9892-4654-b1bf-e8819c5eabfa")
 		(at 288.13125 71.4375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "BKSPC"
+		(property "Reference" "MX30"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "0833f8d3-f477-4693-ac30-a8514d77e9dd")
@@ -107768,7 +107768,7 @@
 		(uuid "d3937a04-25a7-444f-af11-86cf6f5f177f")
 		(at 240.50625 42.8625 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "F9"
+		(property "Reference" "MX10"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "ffa6e5c6-9f52-408c-9120-5b0df301955a")
@@ -108832,7 +108832,7 @@
 		(uuid "d6668f86-b4fd-46d8-9f85-63f3b65be250")
 		(at 97.63125 90.4875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "E"
+		(property "Reference" "MX37"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "0df22da8-64b1-45c5-bf8b-b84643482b8b")
@@ -111111,7 +111111,7 @@
 		(uuid "daf94cfe-43f7-4e7f-a181-7e7824c0dd7d")
 		(at 280.9875 128.5875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "R_SHFT"
+		(property "Reference" "MX75"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "28dfc3fc-5993-4b63-99d0-a65938155ad0")
@@ -112985,7 +112985,7 @@
 		(uuid "e02adde4-57d0-4552-8e53-e97c2bfd5830")
 		(at 126.20625 71.4375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "5"
+		(property "Reference" "MX22"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "dc238502-8cda-4ab3-abb5-4725f2be6c96")
@@ -114049,7 +114049,7 @@
 		(uuid "e09b0ef3-a9c3-47dd-864a-42f98a0330e1")
 		(at 247.65 147.6375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "FN"
+		(property "Reference" "MX83"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "e7fd877a-f271-4bd5-99bf-332e34f459d0")
@@ -115113,7 +115113,7 @@
 		(uuid "e0d647f9-ffd7-4158-b8c0-2fd6b7e82231")
 		(at 152.4 147.6375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "SPACE"
+		(property "Reference" "MX81"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "010b3b31-e60d-46f1-b156-b6dd09084675")
@@ -116582,7 +116582,7 @@
 		(uuid "e672c9b1-7170-4d3b-b96f-8ed41d8ed080")
 		(at 126.20625 42.8625 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "F4"
+		(property "Reference" "MX5"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "fa331356-1d0e-485e-bc06-e146e9c4aa4d")
@@ -118051,7 +118051,7 @@
 		(uuid "e7eb8dc9-8fdc-4626-aaa8-546eec9a3386")
 		(at 102.39375 109.5375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "D"
+		(property "Reference" "MX54"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "67a41d44-09d0-4cab-9eb6-20a283f6008e")
@@ -119115,7 +119115,7 @@
 		(uuid "e97ed1a4-2fa8-492f-8d9c-d76856582ba0")
 		(at 192.88125 42.8625 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "F7"
+		(property "Reference" "MX8"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "d04e0d56-e2b7-4706-bb33-60779465535c")
@@ -120989,7 +120989,7 @@
 		(uuid "ed48f375-f393-49c0-a7df-e8f20815cfe5")
 		(at 154.78125 42.8625 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "F5"
+		(property "Reference" "MX6"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "cefc1953-0eb0-4c84-a3fa-d407b4dd5a23")
@@ -122053,7 +122053,7 @@
 		(uuid "ef6259ba-4ead-4c4e-9c2e-c889818a4cce")
 		(at 59.53125 90.4875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "Q"
+		(property "Reference" "MX35"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "9c5a3624-6e75-4640-885b-10ed87a505e1")
@@ -123117,7 +123117,7 @@
 		(uuid "f278d73d-9f6a-4d82-96dd-8364884cbbd2")
 		(at 340.51875 42.8625 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "SCRLK"
+		(property "Reference" "MX15"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "36b84de5-48fe-4258-bdc6-e61af1ff4d6a")
@@ -124181,7 +124181,7 @@
 		(uuid "f3b0d0f1-ec48-4516-9b96-65a1a313b857")
 		(at 159.54375 109.5375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "H"
+		(property "Reference" "MX57"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "9612f30f-b98e-4121-afee-a28e1ef91ffb")
@@ -125650,7 +125650,7 @@
 		(uuid "f63a5432-e493-4c36-88b7-698076cc3589")
 		(at 64.29375 109.5375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "A"
+		(property "Reference" "MX52"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "d8e7757f-1f3f-4e20-b9c4-38437dff6f12")
@@ -127119,7 +127119,7 @@
 		(uuid "fb881c87-1728-416c-8b12-2789d6482b1e")
 		(at 359.56875 71.4375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "PGUP"
+		(property "Reference" "MX33"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "d3262c79-adff-4aa2-acbb-e7d6955c92a6")
@@ -128183,7 +128183,7 @@
 		(uuid "fc99b55d-48b0-4c0e-b003-99d09771714a")
 		(at 107.15625 71.4375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "4"
+		(property "Reference" "MX21"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "c2c50ed1-93ff-414d-b168-1d29cfd634b3")
@@ -130057,7 +130057,7 @@
 		(uuid "fdbf0ca4-4840-42bd-9bdc-c78e4af2b0f3")
 		(at 88.10625 71.4375 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "3"
+		(property "Reference" "MX20"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "7d39a407-e2f5-4136-ad6f-cb1cc8ef468c")
@@ -131121,7 +131121,7 @@
 		(uuid "fdc4faef-e91a-4f21-ada7-5a5eca49a463")
 		(at 250.03125 90.4875 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
-		(property "Reference" "{"
+		(property "Reference" "MX45"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
 			(uuid "5505bdfc-ae99-4859-a4c0-5bad684ab8a5")
@@ -133035,11 +133035,11 @@
 	)
 	(segment
 		(start 376.04125 77.59125)
-		(end 374.49125 76.04125)
+		(end 375.64125 77.19125)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 1)
-		(uuid "1360f409-ed2b-4ef3-954c-6798bd4b51ca")
+		(uuid "13650393-c1a7-4f7b-a7fe-efdd1c85f15c")
 	)
 	(segment
 		(start 127.7825 120.1625)
@@ -133170,12 +133170,28 @@
 		(uuid "682928c4-0031-43d1-99e7-e3d1309389f6")
 	)
 	(segment
+		(start 370.94125 71.4375)
+		(end 373.005 73.50125)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "6d0ae951-56c6-4982-b6d2-def84e76c975")
+	)
+	(segment
 		(start 362.7975 102.79375)
 		(end 376.04125 89.55)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 1)
 		(uuid "831ce975-b2c1-488d-b622-91d9b7f4828b")
+	)
+	(segment
+		(start 373.889485 77.19125)
+		(end 370.94125 74.243015)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "85f5f3bc-f41c-40f9-8a30-067d4d6982ce")
 	)
 	(segment
 		(start 201.45375 119.0625)
@@ -133192,6 +133208,14 @@
 		(layer "F.Cu")
 		(net 1)
 		(uuid "87963ec0-1f78-4bbf-91df-37989de8a7ab")
+	)
+	(segment
+		(start 375.64125 77.19125)
+		(end 373.889485 77.19125)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "8eb68c65-020d-4a3e-b080-8f58a92062c3")
 	)
 	(segment
 		(start 258.60375 119.0625)
@@ -133232,6 +133256,14 @@
 		(layer "F.Cu")
 		(net 1)
 		(uuid "979631a7-b8b3-4bce-88c0-009dd112416b")
+	)
+	(segment
+		(start 373.005 73.50125)
+		(end 374.49125 73.50125)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "9bba4fdf-40fd-4688-abba-eada88032e31")
 	)
 	(segment
 		(start 272.898975 120.1625)
@@ -133368,6 +133400,30 @@
 		(layer "F.Cu")
 		(net 1)
 		(uuid "ffb03b8c-0f2c-4399-8916-0469f04706ca")
+	)
+	(via blind
+		(at 370.94125 74.243015)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 1)
+		(uuid "8ba723b9-9552-48d7-8a89-74dded6ebf84")
+	)
+	(via blind
+		(at 370.94125 71.4375)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 1)
+		(uuid "d98cafca-9b00-40b3-b944-b3ebb778bd50")
+	)
+	(segment
+		(start 370.94125 74.243015)
+		(end 370.94125 71.4375)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 1)
+		(uuid "71e07369-f21a-416c-b64c-c194b68d5e98")
 	)
 	(segment
 		(start 85.88375 104.4575)
@@ -133754,6 +133810,14 @@
 		(uuid "7d90ce88-0783-490f-b1fe-ae462603296e")
 	)
 	(segment
+		(start 375.64125 79.73125)
+		(end 373.34125 79.73125)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 14)
+		(uuid "81621ec1-0a40-4102-ae15-354d7abde356")
+	)
+	(segment
 		(start 255.27 100.0125)
 		(end 256.37 101.1125)
 		(width 0.2)
@@ -133776,6 +133840,14 @@
 		(layer "F.Cu")
 		(net 14)
 		(uuid "8ae78fcb-e448-4bc0-bc32-3c0efbb078eb")
+	)
+	(segment
+		(start 373.34125 79.73125)
+		(end 373.080957 79.470957)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 14)
+		(uuid "8b92c59d-183f-497c-8f7d-d7ad49b40917")
 	)
 	(segment
 		(start 103.8225 100.0125)
@@ -134002,14 +134074,6 @@
 		(uuid "dff62d73-deb3-4157-b57b-c748b564c882")
 	)
 	(segment
-		(start 375.64125 79.73125)
-		(end 374.49125 78.58125)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 14)
-		(uuid "e66b6f95-0c30-4ef9-ba63-eb494463f5d0")
-	)
-	(segment
 		(start 321.945 102.39375)
 		(end 324.32625 100.0125)
 		(width 0.2)
@@ -134056,6 +134120,38 @@
 		(layer "F.Cu")
 		(net 14)
 		(uuid "fe2fc94d-0e27-463e-9f68-70f641734e3b")
+	)
+	(segment
+		(start 373.080957 79.470957)
+		(end 373.080957 77.231251)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 14)
+		(uuid "fff9e3a6-6253-4de0-8182-39d192379151")
+	)
+	(via blind
+		(at 373.080957 77.231251)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 14)
+		(uuid "49e38e61-b38d-4b5a-b56d-8bd18be93613")
+	)
+	(segment
+		(start 373.080957 77.231251)
+		(end 373.301249 77.231251)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 14)
+		(uuid "2576bb0b-f0c7-4f34-8bcc-188b0c7aac76")
+	)
+	(segment
+		(start 373.301249 77.231251)
+		(end 374.49125 76.04125)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 14)
+		(uuid "72026440-efc0-4f54-a506-c510a9718ea2")
 	)
 	(segment
 		(start 324.00875 92.71)

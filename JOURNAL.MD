@@ -5,6 +5,8 @@ description: "First keyboard i fully made! Also replacement for my old keyboard 
 created_at: "2025-7-17"
 ---
 
+## Total time spent: 13 hours
+
 # July 17: Started the project!
 3:50 PM | About 2 hours ago i started planning out the project in notepad, slept for 30 mins, woke up fresh after a nap and made first iteration of product list! *(it was here, but due to gallery site not suporting tables i needed to delete it, you can find it in github repo changes history!)*
 
@@ -69,3 +71,7 @@ right now i am adding all the files to the repo and making the ones that i didnt
 Right now i will add the missing infos to journal (time per sessions etc) and expand it a bit cause i was writing it loosely, just so i can remember what i wanted to say to later (now) expand it! *(Every expand is in this format!)*
 
 Now: I need to make the README.md complete and make the firmware (at least demo version of it!)
+
+Okay! its 9:25 PM (i swear it is the last timestamp, i know you said to not include them as much but it helps me track hours i spent on project) and i finished firmware (demo version of it) and i think everything else! Now what left is to sum up hours, post it on highway-pitstop, get feedback and then submit!
+
+## Time spent this session: 4.5 hours
