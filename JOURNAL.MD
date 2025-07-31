@@ -75,3 +75,27 @@ Now: I need to make the README.md complete and make the firmware (at least demo 
 Okay! its 9:25 PM (i swear it is the last timestamp, i know you said to not include them as much but it helps me track hours i spent on project) and i finished firmware (demo version of it) and i think everything else! Now what left is to sum up hours, post it on highway-pitstop, get feedback and then submit!
 
 ## Time spent this session: 4.5 hours
+
+## July 30: Return
+Yo, so to keep it short, my design was rejected for having too simple case and not having every gnd pin connected, i am goin in work cycles i described in my spark-carrier project. It is currently 4 am july 30, i am going to speedrun this
+
+- Cycle 1: Connected all of the GND Pins, next cycle i will add mounting holes and export it to cad
+- Cycle 2: Made mounting holes, exported as step file, started making case outline, will make it fully in next one or two cycles
+- Cycle 3: Almost made whole bottom plate, now 25 minute break.
+- Cycle 4: Made bottom plate, now i will be centering the top plate
+- Cycle 5: Made top plate, need to cut a square out for encoder
+- Cycle 6: Cut square for encoder, i though about how to customize it, i got idea to do it so on the back there will be SVG of Isha and Jinx from Arcane, on the front there will be Jinx from Arcane and also there will be accents like POW POW etc (the accents made by me, others just converted from JPG to SVG)
+
+I took a break, i just got back, extruded jinx and isha svg onto bottom of backplate, my friend is making me an funny version of jinx on my tablet. I will extrude it on front plate and add some accents that i will make when she ends. RN i need to make my other project cause i need to submit it up to tommorow
+
+## Time spent this session: 3 hours
+
+# July 31: Last day
+Yo, so i didnt finish it yesterday, i will finish it now lol, i have almost everything ready
+
+I took a break (again), i just made it, it took me like 1 hour. Basically key points of case are:
+- Legs (keyboard is tilted 7.5 degrees)
+- "Jinx was here" text on the front, goofy ahh jinx on the front (made by my friend) and jinx with isha on the back
+- Minimalistic design (i hate over-modeled and too complicated designs, in my opinion it looks bad, this is why my case is "simple")
+
+![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/3d-full-july31.png)
