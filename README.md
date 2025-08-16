@@ -14,6 +14,7 @@ Fusion 360 screenshot of full model (except switches as it is too much of hassle
 ![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 of full model of the keyboard. Please send an message to me on slack about it, i will fix is ASAP!](assets/3d-full-july31.png)
 
 USB Port Cutout (11x6.5mm)
+
 ![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 of usb cutout on the keyboard. Please send an message to me on slack about it, i will fix is ASAP!](assets/usb-cutout.png)
 
 # PCB Pictures:
@@ -26,6 +27,7 @@ PCB:
 PCB 3D Viewer KiCad:
 Front:
 ![Oh no! The image didn't load :<. It was a screenshot from KiCad of keyboard's PCB 3D model front at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/pcb-3d.png)
+
 Back:
 ![Oh no! The image didn't load :<. It was a screenshot from KiCad of keyboard's PCB 3D model back at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/pcb-3d-back.png)
 
