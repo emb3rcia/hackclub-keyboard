@@ -10,8 +10,8 @@ I made this keyboard for few reasons:
 4. I wanted something that i made not that i bought from random seller
 
 # CAD Pictures:
-Fusion 360 screenshot of full model (except switches as it is too much of hassle to add them and they would be covered by keycaps that can vary from person to person!)
-![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 of full model of the keyboard. Please send an message to me on slack about it, i will fix is ASAP!](assets/readme-f360-ss.png)
+Picture of the full model:
+![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 of full model of the keyboard. Please send an message to me on slack about it, i will fix is ASAP!](assets/3d-full-july31.png)
 
 # PCB Pictures:
 Schematics:
