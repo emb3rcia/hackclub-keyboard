@@ -99,3 +99,6 @@ I took a break (again), i just made it, it took me like 1 hour. Basically key po
 - Minimalistic design (i hate over-modeled and too complicated designs, in my opinion it looks bad, this is why my case is "simple")
 
 ![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/3d-full-july31.png)
+
+# August 16: Fixing
+Yo, i fixed stuff, made usb port accesible (at the edge of board), rerouted everything, added bigger usb cutout

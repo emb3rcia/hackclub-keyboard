@@ -10,18 +10,24 @@ I made this keyboard for few reasons:
 4. I wanted something that i made not that i bought from random seller
 
 # CAD Pictures:
-Picture of the full model:
+Fusion 360 screenshot of full model (except switches as it is too much of hassle to add them and they would be covered by keycaps that can vary from person to person!)
 ![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 of full model of the keyboard. Please send an message to me on slack about it, i will fix is ASAP!](assets/3d-full-july31.png)
+
+USB Port Cutout (11x6.5mm)
+![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 of usb cutout on the keyboard. Please send an message to me on slack about it, i will fix is ASAP!](assets/usb-cutout.png)
 
 # PCB Pictures:
 Schematics:
 ![Oh no! The image didn't load :<. It was a screenshot from KiCad of keyboard's PCB schematic. Please send an message to me on slack about it, i will fix is ASAP!](assets/readme-schem-ss.png)
 
 PCB:
-![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/pcb.png)
+![Oh no! The image didn't load :<. It was a screenshot from KiCad of keyboard's PCB at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/pcb.png)
 
 PCB 3D Viewer KiCad:
-![Oh no! The image didn't load :<. It was a screenshot from Fusion 360 at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/pcb-3d.png)
+Front:
+![Oh no! The image didn't load :<. It was a screenshot from KiCad of keyboard's PCB 3D model front at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/pcb-3d.png)
+Back:
+![Oh no! The image didn't load :<. It was a screenshot from KiCad of keyboard's PCB 3D model back at the time of writing it. Please send an message to me on slack about it, i will fix is ASAP!](assets/pcb-3d-back.png)
 
 # BOM:
 
